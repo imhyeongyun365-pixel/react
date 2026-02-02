@@ -1,0 +1,13 @@
+.container {
+  background-color:antiquewhite ;
+  border: 3px solid #000;
+}
+
+
+header {
+  background-color: rgb(15, 184, 71);
+}
+
+aside {
+  background-color: salmon;
+}
